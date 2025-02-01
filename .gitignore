@@ -1,1 +1,12 @@
 build/
+/.vs/Project
+/CMakeFiles
+/Debug
+/nesasm.dir/Debug
+/x64/Debug
+/CMakeCache.txt
+/cmake_install.cmake
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+Project.sln
