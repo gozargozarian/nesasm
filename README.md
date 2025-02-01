@@ -29,3 +29,4 @@ NES version by:
 
 Further modifications by:
 * bunnyboy, from [RetroUSB](https://www.retrousb.com/)
+* gozargozarian, removed a Unix C dependency and implemented the one method used from strings.h
